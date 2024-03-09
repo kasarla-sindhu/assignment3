@@ -1,0 +1,26 @@
+.button {
+  list-style-type: none;
+}
+.butn {
+  color: #ffffff;
+  font-family: Roboto;
+  font-size: 20px;
+  margin-right: 5px;
+  background-color: #2c0e3a;
+  border-style: none;
+  border-color: none;
+  border-width: 0px;
+}
+.selected-butn {
+  color: #fec653;
+  font-family: Roboto;
+  font-size: 20px;
+  margin-right: 5px;
+  background-color: #2c0e3a;
+  border-style: solid;
+  border-color: #fec653;
+  border-bottom-width: 3px;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}

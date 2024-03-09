@@ -1,0 +1,47 @@
+.nav-con {
+  background-color: #2c0e3a;
+  height: 15vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.img-con {
+  list-style-type: none;
+  width: 100px;
+  height: 60px;
+  margin-left: 25px;
+}
+.img {
+  width: 100px;
+  height: 60px;
+}
+.scores {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.score {
+  color: #ffffff;
+  font-family: Roboto;
+  font-size: 18px;
+}
+.time {
+  color: #fec653;
+  font-size: 22px;
+  font-family: Roboto;
+  margin-right: 25px;
+}
+.timer-con {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  margin-left: 3px;
+  margin-right: 23px;
+}
+.timer-img {
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+}
